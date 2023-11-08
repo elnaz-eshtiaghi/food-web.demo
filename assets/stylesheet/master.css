@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family:bungee ;
+    src: url(../src/assets/font/font/Bungee-Regular.ttf);
+}
+@font-face {
+    font-family:dangrek;
+    src: url(../src/assets/font/font/Dangrek-Regular.ttf);
+}
+@font-face {
+    font-family: into;
+    src: url(../src/assets/font/font/ShadowsIntoLightTwo-Regular.ttf);
+}
